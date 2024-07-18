@@ -3,7 +3,7 @@ my_div{
 }
 .flex-container {
     display: flex;
-    border: column-reverse;
+    flex-direction: column-reverse;
 }
 
 .box1 {

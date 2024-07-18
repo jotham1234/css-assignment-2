@@ -3,45 +3,45 @@ my_div{
 }
 .flex-container {
     display: flex;
-    flex-direction: column-reverse;
+    border: column-reverse;
 }
 
 .box1 {
     width: 10vw;
-    background-color: green;
+    color: green;
 }
 
 .box2 {
     width: 10vw;
-    background-color: yellow;
+    color: yellow;
 }
 
 .box3 {
     width: 10vw;
-    background-color: red;
+    color: red;
 }
 
 .box4 {
     width: 10vw;
-    background-color: pink;
+    color: pink;
 }
 
 .box5 {
     width: 10vw;
-    background-color: chartreuse;
+    color: chartreuse;
 }
 
 .box6 {
     width: 10vw;
-    background-color: khaki;
+    color: khaki;
 }
 
 .box7 {
     width: 10vw;
-    background-color: goldenrod;
+    color: goldenrod;
 }
 
 .box8 {
     width: 10vw;
-    background-color: burlywood;
+    color: burlywood;
 }

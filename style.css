@@ -1,0 +1,47 @@
+my_div{
+    border: 10px solid gray;
+}
+.flex-container {
+    display: flex;
+    flex-direction: column-reverse;
+}
+
+.box1 {
+    width: 10vw;
+    background-color: green;
+}
+
+.box2 {
+    width: 10vw;
+    background-color: yellow;
+}
+
+.box3 {
+    width: 10vw;
+    background-color: red;
+}
+
+.box4 {
+    width: 10vw;
+    background-color: pink;
+}
+
+.box5 {
+    width: 10vw;
+    background-color: chartreuse;
+}
+
+.box6 {
+    width: 10vw;
+    background-color: khaki;
+}
+
+.box7 {
+    width: 10vw;
+    background-color: goldenrod;
+}
+
+.box8 {
+    width: 10vw;
+    background-color: burlywood;
+}

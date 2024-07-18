@@ -1,9 +1,11 @@
-my_div{
+.my_div{
     border: 10px solid gray;
 }
 .flex-container {
     display: flex;
     flex-direction: column-reverse;
+    justify-content: space-between;
+    border: 10px solid red
 }
 
 .box1 {
